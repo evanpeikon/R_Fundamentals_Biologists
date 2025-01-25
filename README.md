@@ -5,6 +5,8 @@ In response to that, I created a guide called [Python Fundamentals For Biologist
 
 Importantly, this guide assumes you are familiar with basic R syntax. With that foundation, you'll be ready to learn key programming concepts that will appear time and time again. From understanding the logic behind loops and conditionals, to deciphering the power of functions, and creating clean data visualizations, this guide is your short go-to resource, equipping you with the tools to decipher and compose code that unlocks the mysteries hidden in biological data.
 
+> PS - If you enjoy this guide you may want to check out the [Bioinformatics Toolkit](https://github.com/evanpeikon/Bioinformatics_Toolkit), which covers everything from fundamental programing skills for bioinformatics, a comprehensive guides to math for bioinformatics, step-by-step bioinformatics project walkthroughs with reproducible code, and more.
+
 ## 🔴 Storing Data In Lists and Dictionaries 
 Lists and named lists are fundamental in managing and manipulating biological data in R. A list in R is similar to a Python list in that it can store an ordered collection of objects, while a named list is akin to a Python dictionary because it associates values with specific labels or names (keys). These structures are particularly useful for bioinformatics tasks such as sequence analysis, where efficiently navigating and organizing data is essential.
 
